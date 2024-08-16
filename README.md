@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi👋 I'm Neelesh Methuku
+- 📫 Feel Free to reach me out on : methukuneelesh@gmail.com
 
 <!--
 **neeleshmethuku/neeleshmethuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
